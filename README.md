@@ -29,7 +29,7 @@ O script realiza as seguintes operações:
 
 ### 🛠️ Tecnologias Utilizadas
 
-* **Python 3.x**
+* **Python**
 * **Pandas:** Para manipulação e análise dos dados em formato de DataFrame.
 * **NumPy:** Para operações numéricas e tratamento de valores nulos.
 * **OpenPyXL:** Como motor para ler e escrever arquivos `.xlsx`.
